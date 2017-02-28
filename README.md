@@ -1,2 +1,2 @@
 # Descriptive-Statistics-and-Normality
-An evaluation of a poissan and normal data distributions.
+An evaluation of poissan and normal data distributions.
